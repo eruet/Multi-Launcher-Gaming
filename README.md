@@ -14,5 +14,5 @@ MLG centralise tout vos jeux provenant de différents distributeurs (Steam, Upla
 Si vous souhaitez reprendre une partie de mon code, merci de me prévenir et de me créditer.
 
 # Mise à jour
-09/05/2019 - L page index créé une nouvelle page Jeux.php
-07/05/2019 - Création
+09/05/2019 - La page index créé une nouvelle page Jeux.php.
+07/05/2019 - Création.
