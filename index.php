@@ -35,3 +35,21 @@
     </body>
     
 </html>
+<?php
+$fichier = fopen('Jeux.php', 'w+');
+$texte = '
+<html style="height: 100%;margin: 0; padding: 0;">
+    <head>
+        <title>Installation</title>
+        <link rel="icon" href="https://enzo-ruet.fr/centralisateur/logo.ico" />
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    </head>
+    
+    <body>
+    </body>
+</html>
+';
+fwrite($fichier, $texte);
+fclose($fichier);
+?>
+
